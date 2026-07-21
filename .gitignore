@@ -1,0 +1,18 @@
+# Executáveis e Binários
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Pastas de Build (CMake, VS Code, CLion, Visual Studio)
+build/
+bin/
+out/
+.vs/
+.idea/
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
