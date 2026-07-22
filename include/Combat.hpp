@@ -1,5 +1,5 @@
-#ifndef COMBAT_H
-#define COMBAT_H
+#ifndef COMBAT_HPP
+#define COMBAT_HPP
 
 extern int dano;
 extern int defesa;

@@ -1,5 +1,5 @@
-#ifndef ENEMY_H
-#define ENEMY_H
+#ifndef ENEMY_HPP
+#define ENEMY_HPP
 
 #include <string>
 

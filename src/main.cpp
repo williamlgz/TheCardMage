@@ -6,11 +6,11 @@
 #include <cstdlib>
 #include <ctime>
 
-#include "Utils.h"
-#include "Enemy.h"
-#include "Deck.h"
-#include "Card.h"
-#include "Combat.h"
+#include "Utils.hpp"
+#include "Enemy.hpp"
+#include "Deck.hpp"
+#include "Card.hpp"
+#include "Combat.hpp"
 
 using namespace std;
 

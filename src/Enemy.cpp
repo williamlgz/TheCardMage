@@ -1,5 +1,5 @@
-#include "Enemy.h"
-#include "Utils.h"
+#include "Enemy.hpp"
+#include "Utils.hpp"
 #include <iostream>
 #include <cstdlib>
 

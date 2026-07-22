@@ -1,8 +1,8 @@
-#include "Card.h"
-#include "Deck.h"
-#include "Enemy.h"
-#include "Combat.h"
-#include "Utils.h"
+#include "Card.hpp"
+#include "Deck.hpp"
+#include "Enemy.hpp"
+#include "Combat.hpp"
+#include "Utils.hpp"
 #include <iostream>
 
 using namespace std;

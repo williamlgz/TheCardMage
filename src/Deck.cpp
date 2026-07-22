@@ -1,4 +1,4 @@
-#include "Deck.h"
+#include "Deck.hpp"
 #include <cstdlib>
 
 int topoBaralho = -1;

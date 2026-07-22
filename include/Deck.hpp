@@ -1,5 +1,5 @@
-#ifndef DECK_H
-#define DECK_H
+#ifndef DECK_HPP
+#define DECK_HPP
 
 const int MAXB = 50;
 const int MAXM = 5;

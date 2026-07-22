@@ -1,6 +1,6 @@
-#include "Combat.h"
-#include "Enemy.h"
-#include "Utils.h"
+#include "Combat.hpp"
+#include "Enemy.hpp"
+#include "Utils.hpp"
 #include <iostream>
 
 using namespace std;

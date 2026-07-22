@@ -82,11 +82,11 @@ g++ -I include src/*.cpp -o TheCardMage
 ```text
 TheCardMage/
 ├── include/
-│   ├── Card.h
-│   ├── Combat.h
-│   ├── Deck.h
-│   ├── Enemy.h
-│   └── Utils.h
+│   ├── Card.hpp
+│   ├── Combat.hpp
+│   ├── Deck.hpp
+│   ├── Enemy.hpp
+│   └── Utils.hpp
 ├── src/
 │   ├── Card.cpp
 │   ├── Combat.cpp
